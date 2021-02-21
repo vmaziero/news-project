@@ -1,0 +1,23 @@
+{
+  "name": "web-dev-project-2021",
+  "version": "0.0.0",
+  "description": "Projeto de Desenvolvimento Web | Site de notícias",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmaziero/news-project.git"
+  },
+  "keywords": [
+    "html",
+    "css"
+  ],
+  "author": "Victória Maziero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vmaziero/news-project/issues"
+  },
+  "homepage": "https://github.com/vmaziero/news-project#readme"
+}
